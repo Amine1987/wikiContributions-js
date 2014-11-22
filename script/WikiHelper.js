@@ -19,7 +19,7 @@ Grisou.WikiHelper = (function () {
 
     self.getApiUrlPath = function() {
         return apiUrl;
-    }
+    };
 
 
     self.setApiUrlPath = function (url) {
